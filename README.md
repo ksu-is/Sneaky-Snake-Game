@@ -1,5 +1,5 @@
 # Sneaky Snake Game
-Play the CLassic Snake Without Authority Knowing
+Play the Classic Snake Without Authority Knowing
 
 Source: https://github.com/ksu-is/Sneaky-Snake-Game
 
